@@ -254,6 +254,7 @@ Clicking on the summary lets you drill down into the details of the root cause r
 
 As you can see, there are many root causes as to why the website is not functioning properly. Zebrium was able to find and different root causes with explanations.
 
-** The End!
+**The End!**
+
 Now that we project has concluded, don't forget to delete your cluster and node groups, so that you will not be charged for extensive usage.
 
